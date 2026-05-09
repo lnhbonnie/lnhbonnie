@@ -1,5 +1,25 @@
 ## Hi, I'm Bonnie 👋
 
+**Operator brain + builder hands**  
+I ship GTM flywheels *and* the tools to run them.  
+Currently learning 
+
+
+### 🛠 Stack
+
+
+
+---
+
+### ⚡ What I unlock
+
+
+
+### 🔭 What I'm building next
+
+
+
+
 <!--
 **lnhbonnie/lnhbonnie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
