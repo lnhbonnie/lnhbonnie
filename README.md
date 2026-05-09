@@ -13,7 +13,7 @@ Currently learning
 
 
 
-### 🔭 What I'm building next
+### 🔭 What I'm building
 
 
 
