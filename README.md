@@ -3,6 +3,7 @@
 **Operator brain + Builder hands**  
 
 I ship GTM flywheels *and* the tools to run them.  
+
 Currently learning 
 
 
@@ -18,6 +19,7 @@ Currently learning
 
 
 ### 🌱 Links
+- Salesforce AI + GTM skills: https://www.salesforce.com/trailblazer/sp5u5j1o5qxo8n5jkr
 
 
 
