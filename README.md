@@ -1,6 +1,7 @@
 ## Hi, I'm Bonnie 👋
 
 **Operator brain + Builder hands**  
+
 I ship GTM flywheels *and* the tools to run them.  
 Currently learning 
 
