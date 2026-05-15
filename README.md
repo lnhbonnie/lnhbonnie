@@ -11,14 +11,18 @@ I ship GTM flywheels *and* the tools to run them.
 
 
 **🔭 What I'm building**
+- [Daily OS + Momentum Outcome Map](https://github.com/lnhbonnie/daily-OS-momentum-outcome-map) — Airtable execution OS with dependency-based momentum
+- AI Marketing Agent — multi-agent content system
 
 
 
 **⚡ What I unlock**
-
+Commerical clairty + GTM traction: turning product insight into a sharp revenue motion across ICP, positioning, messaging, pricing, and sales narrative.
 
 
 **🌱 Links**
+- [LinkedIn](https://linkedin.com/in/bonlau)
+- [GTM Portfolio](https://bonnie-gtm.vercel.app)
 - [Salesforce AI + GTM skills](https://www.salesforce.com/trailblazer/sp5u5j1o5qxo8n5jkr)
 
 
