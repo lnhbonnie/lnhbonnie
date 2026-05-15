@@ -16,7 +16,7 @@ I ship GTM flywheels *and* the tools to run them.
 - [Daily OS + Momentum Outcome Map](https://github.com/lnhbonnie/daily-OS-momentum-outcome-map) — Airtable execution OS with dependency-based momentum
 - AI Marketing Agent — multi-agent content system
 
-&nbsp;
+<br>
 
 **⚡ What I unlock**
 
