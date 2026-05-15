@@ -26,7 +26,7 @@ I ship GTM flywheels *and* the tools to run them.
 
 **💪 Strengths**
 
-- Judgment · Systems Thinking · Product Sense · Customer Centricity · Design Taste · Business Acumen · Strategy & Operations · AI-Native Building · Founder Execution · CPA Rigor · Curious & Creative
+- Judgment · High Agency · Systems Thinking · Product Sense · Customer Centricity · Design Taste · Business Acumen · Strategy & Operations · AI-Native Building · Founder Execution · CPA Rigor · Curious & Creative
 
 <br>
 
