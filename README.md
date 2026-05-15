@@ -14,11 +14,11 @@ I ship GTM flywheels *and* the tools to run them.
 
 
 
-### ⚡ What I unlock
+**⚡ What I unlock**
 
 
 
-### 🌱 Links
+**🌱 Links**
 - [Salesforce AI + GTM skills](https://www.salesforce.com/trailblazer/sp5u5j1o5qxo8n5jkr)
 
 
