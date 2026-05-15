@@ -19,13 +19,13 @@ I ship GTM flywheels *and* the tools to run them.
 
 **⚡ What I unlock**
 
-Commerical clairty + GTM traction: turning product insight into a sharp revenue motion across ICP, positioning, messaging, pricing, and sales narrative.
+- Commerical clairty + GTM traction: turning product insight into a sharp revenue motion across ICP, positioning, messaging, pricing, and sales narrative.
 
 &nbsp;
 
 **💪 Strengths**
 
-Judgment · Systems Thinking · Product Sense · Customer Centricity · Design Taste · Business Acumen · Strategy & Operations · AI-Native Building · Founder Execution · CPA Rigor · Curious & Creative
+- Judgment · Systems Thinking · Product Sense · Customer Centricity · Design Taste · Business Acumen · Strategy & Operations · AI-Native Building · Founder Execution · CPA Rigor · Curious & Creative
 
 &nbsp;
 
