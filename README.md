@@ -9,22 +9,25 @@ I ship GTM flywheels *and* the tools to run them.
 
 **🛠 Stack**
 
+&nbsp;
 
 **🔭 What I'm building**
 - [Daily OS + Momentum Outcome Map](https://github.com/lnhbonnie/daily-OS-momentum-outcome-map) — Airtable execution OS with dependency-based momentum
 - AI Marketing Agent — multi-agent content system
 
-
+&nbsp;
 
 **⚡ What I unlock**
 
 Commerical clairty + GTM traction: turning product insight into a sharp revenue motion across ICP, positioning, messaging, pricing, and sales narrative.
 
+&nbsp;
+
 **💪 Strengths**
 
 Judgment · Systems Thinking · Product Sense · Customer Centricity · Design Taste · Business Acumen · Strategy & Operations · AI-Native Building · Founder Execution · CPA Rigor · Curious & Creative
 
-
+&nbsp;
 
 **🌱 Links**
 - [LinkedIn](https://linkedin.com/in/bonlau)
