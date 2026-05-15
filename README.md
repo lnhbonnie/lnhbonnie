@@ -8,7 +8,7 @@ I ship GTM flywheels *and* the tools to run them.
 
 
 **🛠 Stack**
-- Airtable · Clay · Zapier · Notion · Claude · Claude Cowork · ChatGPT · Gemini · Vercel · Canva · Adobe Firefly · Notebook LM
+- Airtable · Clay · Zapier · Notion · Claude · Claude Cowork · ChatGPT · Gemini · Vercel · Lovable · Canva · Adobe Firefly · Notebook LM
 
 &nbsp;
 
