@@ -5,7 +5,7 @@
 Ex-Founder. Ex-Deloitte CPA. Self-taught AI builder.
 I ship GTM flywheels *and* the tools to run them.  
 
----
+--
 
 **🛠 Stack**
 
