@@ -25,6 +25,7 @@ Commerical clairty + GTM traction: turning product insight into a sharp revenue 
 Judgment · Systems Thinking · Product Sense · Customer Centricity · Design Taste · Business Acumen · Strategy & Operations · AI-Native Building · Founder Execution · CPA Rigor · Curious & Creative
 
 
+
 **🌱 Links**
 - [LinkedIn](https://linkedin.com/in/bonlau)
 - [Geo Expansion Framework](https://geo-expansion-framework.vercel.app)
