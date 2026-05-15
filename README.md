@@ -7,7 +7,7 @@ I ship GTM flywheels *and* the tools to run them.
 
 
 
-### 🛠 Stack
+**🛠 Stack**
 
 
 ### 🔭 What I'm building
