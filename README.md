@@ -19,7 +19,7 @@ I ship GTM flywheels *and* the tools to run them.
 
 **⚡ What I unlock**
 
-- Commerical clairty + GTM traction: turning product insight into a sharp revenue motion across ICP, positioning, messaging, pricing, and sales narrative.
+- Commerical clairty + GTM traction: turning product insight into a sharp revenue motion across ICP, positioning, messaging, pricing, and sales narrative
 
 &nbsp;
 
