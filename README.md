@@ -10,7 +10,7 @@ I ship GTM flywheels *and* the tools to run them.
 **🛠 Stack**
 
 
-### 🔭 What I'm building
+**🔭 What I'm building**
 
 
 
