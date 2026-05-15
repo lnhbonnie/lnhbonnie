@@ -11,6 +11,7 @@ I ship GTM flywheels *and* the tools to run them.
 - Airtable · Clay · Zapier · Notion · Claude · Claude Cowork · ChatGPT · Gemini · Vercel · Lovable · Canva · Adobe Firefly · Notebook LM
 
 <br> 
+
 **🔭 What I'm building**
 - [Daily OS + Momentum Outcome Map](https://github.com/lnhbonnie/daily-OS-momentum-outcome-map) — Airtable execution OS with dependency-based momentum
 - AI Marketing Agent — multi-agent content system
