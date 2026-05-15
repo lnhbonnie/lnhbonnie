@@ -2,12 +2,15 @@
 
 ## Operator Brain. Builder Hands.  
 
+Ex-Founder. Ex-Deloitte CPA. Self-taught AI builder.
 I ship GTM flywheels *and* the tools to run them.  
 
-Currently learning 
 
 
 ### 🛠 Stack
+
+
+### 🔭 What I'm building
 
 
 
@@ -15,11 +18,8 @@ Currently learning
 
 
 
-### 🔭 What I'm building
-
-
 ### 🌱 Links
-- Salesforce AI + GTM skills: https://www.salesforce.com/trailblazer/sp5u5j1o5qxo8n5jkr
+- [Salesforce AI + GTM skills](https://www.salesforce.com/trailblazer/sp5u5j1o5qxo8n5jkr)
 
 
 
