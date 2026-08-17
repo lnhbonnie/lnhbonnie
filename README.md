@@ -1,39 +1,37 @@
 # Hi, I'm Bonnie 👋
 
-## Operator Brain. Builder Hands.  
+## Operator Brain. Builder Hands.
 
-Ex-Founder. Ex-Deloitte CPA. Self-taught AI builder.
-I ship GTM flywheels *and* the tools to run them.  
+Ex-Founder. Ex-Deloitte CPA. Self-taught AI builder.  
+I ship GTM flywheels *and* the tools to run them.
 
+### ⚡ What I unlock
 
+**Commercial clarity + GTM traction** — turning product insight into a sharp revenue motion across ICP, positioning, messaging, pricing, and sales narrative.
 
-**🛠 Stack**
-- Airtable · Clay · Zapier · Notion · Claude · Claude Cowork · ChatGPT · Gemini · Vercel · Lovable · Canva · Adobe Firefly · Notebook LM
+Founder-led GTM: 0→$700K ARR, including Netflix, Airbnb, and Tesla.
 
-<br> 
+### 🛠 Builds
 
-**🔭 What I'm building**
+- [Beautiful Mind OS](https://beautiful-mind-execution-os.replit.app/) `WIP` — Visual-first execution OS that gives users immediate clarity and forward motion
+- AI Marketing Agent `WIP` — Multi-agent content system
+- [Geo Expansion Framework](https://geo-expansion-framework.vercel.app/) — GTM decision engine for geo expansion and capital allocation
+- [Gift Registry AI Copilot](https://github.com/lnhbonnie/gift-registry-ai-conversion-copilot) — AI copilot for registry conversion and margin
 - [Daily OS + Momentum Outcome Map](https://github.com/lnhbonnie/daily-OS-momentum-outcome-map) — Airtable execution OS with dependency-based momentum
-- AI Marketing Agent — multi-agent content system
+- [Zender for Job Seekers](https://zender-seven.vercel.app/) — AI support companion for job seekers
 
-<br>
+### Strengths
 
-**⚡ What I unlock**
+Business Acumen · Judgment · Systems Thinking · Product Sense · Customer Centricity · GTM Strategy · AI-Native Building · CPA Rigor
 
-- Commerical clairty + GTM traction: turning product insight into a sharp revenue motion across ICP, positioning, messaging, pricing, and sales narrative
+### 🤖 AI + GTM Stack
 
-<br>
+Replit · Claude Cowork · n8n · Perplexity · DeepSeek · ChatGPT · Gemini · NotebookLM · Clay · Zapier · Lovable · Vercel · Adobe Firefly · Canva · Notion · Airtable
 
-**💪 Strengths**
+### Links
 
-- Business Acumen · Judgment · Multi-Domain Operator · Systems Thinking · Product Sense · Customer Centricity · Design Taste · Strategy & Operations · High Agency · Founder Execution · AI-Native Building · CPA Rigor · Curious & Creative
+[LinkedIn](https://linkedin.com/in/bonlau) · [Salesforce AI + GTM](https://www.salesforce.com/trailblazer/sp5u5j1o5qxo8n5jkr)
 
-<br>
-
-**🌱 Links**
-- [LinkedIn](https://linkedin.com/in/bonlau)
-- [Geo Expansion Framework](https://geo-expansion-framework.vercel.app)
-- [Salesforce AI + GTM skills](https://www.salesforce.com/trailblazer/sp5u5j1o5qxo8n5jkr)
 
 
 
