@@ -13,7 +13,7 @@ I ship GTM flywheels *and* the tools to run them.
 
 Founder-led GTM: 0→$700K ARR, including Tier 1 enterprises such as Netflix, Airbnb, and Tesla.
 
-** 🤖 Builds**
+**🤖 Builds**
 
 - [Beautiful Mind OS](https://beautiful-mind-execution-os.replit.app/) `WIP` — Visual-first execution OS that gives users immediate clarity and forward motion
 - AI Marketing Agent `WIP` — Multi-agent content system
