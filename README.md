@@ -20,6 +20,8 @@ Founder-led GTM: 0→$700K ARR, including Tier 1 enterprises such as Netflix, Ai
 - [Daily OS + Momentum Outcome Map](https://github.com/lnhbonnie/daily-OS-momentum-outcome-map) — Airtable execution OS with dependency-based momentum
 - [Zender for Job Seeker](https://zender-seven.vercel.app/) — AI support companion for job seekers
 
+<br>
+
 **Strengths**
 
 Business Acumen · Judgment · Systems Thinking · Product Sense · Customer Centricity · GTM Strategy · AI-Native Building · CPA Rigor
