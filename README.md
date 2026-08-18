@@ -5,6 +5,8 @@
 Ex-Founder. Ex-Deloitte CPA. Self-taught AI builder.  
 I ship GTM flywheels *and* the tools to run them.
 
+<br>
+
 **⚡ What I unlock**
 
 **Commercial clarity + GTM traction:** turning product insight into a sharp revenue motion across ICP, positioning, messaging, pricing, and sales narrative.
