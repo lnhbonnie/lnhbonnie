@@ -5,32 +5,37 @@
 Ex-Founder. Ex-Deloitte CPA. Self-taught AI builder.  
 I ship GTM flywheels *and* the tools to run them.
 
-### ⚡ What I unlock
+**⚡ What I unlock**
 
-**Commercial clarity + GTM traction** — turning product insight into a sharp revenue motion across ICP, positioning, messaging, pricing, and sales narrative.
+**Commercial clarity + GTM traction:** turning product insight into a sharp revenue motion across ICP, positioning, messaging, pricing, and sales narrative.
 
-Founder-led GTM: 0→$700K ARR, including Netflix, Airbnb, and Tesla.
+Founder-led GTM: 0→$700K ARR, including Tier 1 enterprises such as Netflix, Airbnb, and Tesla.
 
-### 🛠 Builds
+** 🤖 Builds**
 
 - [Beautiful Mind OS](https://beautiful-mind-execution-os.replit.app/) `WIP` — Visual-first execution OS that gives users immediate clarity and forward motion
 - AI Marketing Agent `WIP` — Multi-agent content system
 - [Geo Expansion Framework](https://geo-expansion-framework.vercel.app/) — GTM decision engine for geo expansion and capital allocation
 - [Gift Registry AI Copilot](https://github.com/lnhbonnie/gift-registry-ai-conversion-copilot) — AI copilot for registry conversion and margin
 - [Daily OS + Momentum Outcome Map](https://github.com/lnhbonnie/daily-OS-momentum-outcome-map) — Airtable execution OS with dependency-based momentum
-- [Zender for Job Seekers](https://zender-seven.vercel.app/) — AI support companion for job seekers
+- [Zender for Job Seeker](https://zender-seven.vercel.app/) — AI support companion for job seekers
 
-### Strengths
+**Strengths**
 
 Business Acumen · Judgment · Systems Thinking · Product Sense · Customer Centricity · GTM Strategy · AI-Native Building · CPA Rigor
 
-### 🤖 AI + GTM Stack
+**AI + GTM Stack**
 
 Replit · Claude Cowork · n8n · Perplexity · DeepSeek · ChatGPT · Gemini · NotebookLM · Clay · Zapier · Lovable · Vercel · Adobe Firefly · Canva · Notion · Airtable
 
-### Links
+**Links**
 
 [LinkedIn](https://linkedin.com/in/bonlau) · [Salesforce AI + GTM](https://www.salesforce.com/trailblazer/sp5u5j1o5qxo8n5jkr)
+
+
+
+
+
 
 
 
